@@ -56,6 +56,12 @@
             <artifactId>rest-assured</artifactId>
             <scope>test</scope>
         </dependency>
+    
+      <dependency>
+        <groupId>io.tiklab</groupId>
+        <artifactId>tiklab-postin-api</artifactId>
+        <version>1.0.0.3</version>
+      </dependency>
     </dependencies>
 
     <build>
